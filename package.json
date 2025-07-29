@@ -1,0 +1,13 @@
+{
+  "name": "my-simple-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app to test DB connection",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.10.1"
+  }
+}
