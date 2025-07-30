@@ -16,7 +16,7 @@ const dbConfig = {
 
 // Root route
 app.get('/', (req, res) => {
-    res.send('<h1>Welcome! The application is running.</h1><p>Go to <a href="/test-db">/test-db</a> to check the database connection.</p>');
+    res.send('<h1>สวสดีครับ ดิว โอม และเอิ้ด</h1><p>Go to <a href="/test-db">/test-db</a> to check the database connection.</p>');
 });
 
 // DB test route
